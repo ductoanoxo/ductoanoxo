@@ -28,9 +28,25 @@ Tôi là một kỹ sư **DevOps & Fullstack Developer** đam mê tự động h
 
 ---
 
+## 📌 Các Dự Án Tiêu Biểu (Featured Pinned Projects)
+
+<div align="center">
+  <a href="https://github.com/ductoanoxo/auto-deploy_stack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ductoanoxo&repo=auto-deploy_stack&theme=tokyonight&show_owner=true" alt="Auto-Deploy Stack" />
+  </a>
+  <a href="https://github.com/ductoanoxo/Agent_SQL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ductoanoxo&repo=Agent_SQL&theme=tokyonight&show_owner=true" alt="Agent SQL" />
+  </a>
+  <a href="https://github.com/ductoanoxo/AI-FOR-EDUCATION">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ductoanoxo&repo=AI-FOR-EDUCATION&theme=tokyonight&show_owner=true" alt="AI-FOR-EDUCATION" />
+  </a>
+</div>
+
+---
+
 ## 🏆 Dự Án Trọng Tâm (Core Star Project)
 
-### 🚀 [Auto-Deploy Stack — Full-Stack DevOps on Docker Swarm](file:///c:/Users/TRA%20DUC%20TOAN/Downloads/dd/README_autodeploy.md)
+### 🚀 [Auto-Deploy Stack — Full-Stack DevOps on Docker Swarm](https://github.com/ductoanoxo/auto-deploy_stack)
 
 **Auto-Deploy Stack** là hệ thống DevOps end-to-end hoàn chỉnh mà tôi thiết kế và triển khai trên hạ tầng **AWS EC2 (Docker Swarm Cluster)** để tự động hóa hoàn toàn luồng phát triển và vận hành của một ứng dụng Fullstack (React + FastAPI).
 
@@ -71,7 +87,7 @@ Tôi là một kỹ sư **DevOps & Fullstack Developer** đam mê tự động h
 
 Bên cạnh mảng DevOps hạ tầng, tôi có kinh nghiệm chuyên sâu trong việc nghiên cứu và xây dựng các hệ thống AI ứng dụng (AI Agent & RAG) với kiến trúc Microservices hiện đại:
 
-### 🎓 1. [AI Learning Studio — Nền Tảng AI Tạo Học Liệu Số](file:///c:/Users/TRA%20DUC%20TOAN/Downloads/dd/README_aiforeducaiton.md)
+### 🎓 1. [AI Learning Studio — Nền Tảng AI Tạo Học Liệu Số](https://github.com/ductoanoxo/AI-FOR-EDUCATION)
 *Nền tảng MVP hỗ trợ giáo dục thông minh giúp giáo viên và học sinh tạo nội dung học tập đa phương thức từ tài liệu số.*
 
 *   **Tính năng chính:**
@@ -82,7 +98,7 @@ Bên cạnh mảng DevOps hạ tầng, tôi có kinh nghiệm chuyên sâu trong
 
 ---
 
-### 🤖 2. [Agent SQL — Hệ Thống Đa Tác Vụ Multi-Agent NL2SQL](file:///c:/Users/TRA%20DUC%20TOAN/Downloads/dd/README_AgentSQL.md)
+### 🤖 2. [Agent SQL — Hệ Thống Đa Tác Vụ Multi-Agent NL2SQL](https://github.com/ductoanoxo/Agent_SQL)
 *Hệ thống chuyển đổi ngôn ngữ tự nhiên thành truy vấn cơ sở dữ liệu và thực thi an toàn.*
 
 *   **Tính năng chính:**
@@ -109,7 +125,11 @@ Bên cạnh mảng DevOps hạ tầng, tôi có kinh nghiệm chuyên sâu trong
 
 ---
 
-## 📊 Hoạt Động Trên GitHub
+## 📈 Bảng Hoạt Động & Thống Kê (GitHub Activity & Stats)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ductoanoxo&theme=tokyonight&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=e0f2fe&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
 
 <div align="center">
   <table style="margin: 0 auto; border: none;">
