@@ -1,7 +1,7 @@
 # 📌 Portfolio & GitHub Profile — Trà Đức Toàn (ductoanoxo)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Tr%C3%A0%20%C4%90%E1%BB%A9c%20To%C3%A0n&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header"/>
+   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=140&section=header&text=Tr%C3%A0%20%C4%90%E1%BB%A9c%20To%C3%A0n&fontSize=40&animation=twinkling&fontColor=ffffff" width="100%" alt="Header"/>
 </p>
 
 <p align="center">
