@@ -6,8 +6,8 @@
 <!-- Typing Intro / Subtitle -->
 <p align="center">
   <samp>
-    <strong>👋 Hi there! I'm Duc Toan</strong><br>
-    🚀 <b>DevOps Engineer</b> | 🛠️ <b>Automation Enthusiast</b> | 🧠 <b>AI Explorer</b>
+    <strong>👋 Hi there! I'm Tra Duc Toan</strong><br>
+    🚀 <b>DevOps Engineer</b> 
   </samp>
 </p>
 
@@ -22,7 +22,7 @@ Tôi là một người đam mê công nghệ và đang theo đuổi định hư
 
 - ⚡ **Định hướng chính:** Xây dựng pipelines CI/CD, đóng gói ứng dụng (Containerization), giám sát hệ thống (Monitoring) và tự động hóa triển khai.
 - 🔭 **Dự án hiện tại:** Tập trung phát triển công cụ tự động hóa triển khai và các ứng dụng AI hỗ trợ thực tế.
-- 📫 Cách liên hệ với tôi: [ductoan.oxo@gmail.com](mailto:ductoan.oxo@gmail.com)
+- 📫 Cách liên hệ với tôi: [toantra349@gmail.com](mailto:toantra349@gmail.com)
 
 ---
 
