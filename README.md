@@ -35,7 +35,7 @@ Tôi là một kỹ sư **DevOps & Fullstack Developer** đam mê tự động h
 **Auto-Deploy Stack** là hệ thống DevOps end-to-end hoàn chỉnh mà tôi thiết kế và triển khai trên hạ tầng **AWS EC2 (Docker Swarm Cluster)** để tự động hóa hoàn toàn luồng phát triển và vận hành của một ứng dụng Fullstack (React + FastAPI).
 
 <p align="center">
-  <img src="image/infographics_v2.png" alt="System Architecture Overview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
+  <img src="160d9e2d-4fe0-4e1b-b608-94da3aac0ce5.png" alt="System Architecture Overview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
 </p>
 
 <p align="center">
